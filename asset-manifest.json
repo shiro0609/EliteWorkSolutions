@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EliteWorkSolutions/static/css/main.30a29a66.css",
+    "main.js": "/EliteWorkSolutions/static/js/main.570031ae.js",
+    "static/js/453.46314c06.chunk.js": "/EliteWorkSolutions/static/js/453.46314c06.chunk.js",
+    "static/media/office2.webp": "/EliteWorkSolutions/static/media/office2.35dc71704d69d3a1d90c.webp",
+    "static/media/office.webp": "/EliteWorkSolutions/static/media/office.66b6d1e14cf863e0f6bb.webp",
+    "static/media/hero.webp": "/EliteWorkSolutions/static/media/hero.1bedbf6e670cb74c7761.webp",
+    "index.html": "/EliteWorkSolutions/index.html",
+    "main.30a29a66.css.map": "/EliteWorkSolutions/static/css/main.30a29a66.css.map",
+    "main.570031ae.js.map": "/EliteWorkSolutions/static/js/main.570031ae.js.map",
+    "453.46314c06.chunk.js.map": "/EliteWorkSolutions/static/js/453.46314c06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a29a66.css",
+    "static/js/main.570031ae.js"
+  ]
+}
